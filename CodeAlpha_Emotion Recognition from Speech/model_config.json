@@ -1,0 +1,1 @@
+{"model_type": "lstm", "num_classes": 8, "input_size": 180, "classes": ["angry", "calm", "disgust", "fearful", "happy", "neutral", "sad", "surprised"]}
